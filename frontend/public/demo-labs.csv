@@ -1,0 +1,9 @@
+patient_id,test,value,unit,reference_low,reference_high,ai_result,reference_answer,ai_interpretation
+SYN-001,Glucose,92,mg/dL,70,99,within_range,within_range,Value falls within the supplied reference range.
+SYN-002,Glucose,116,mg/dL,70,99,above_range,above_range,Value is above the supplied reference range.
+SYN-003,Hemoglobin,13.8,g/dL,12,16,within_range,within_range,Value falls within the supplied reference range.
+SYN-004,Hemoglobin,10.4,g/dL,12,16,below_range,below_range,Value is below the supplied reference range.
+SYN-005,Glucose,84,mg/dL,70,99,within_range,within_range,Value falls within the supplied reference range.
+SYN-006,Glucose,104,mg/dL,70,99,within_range,above_range,Value falls within the supplied reference range.
+SYN-007,Creatinine,0.9,mg/dL,0.6,1.2,within_range,within_range,Value falls within the supplied reference range.
+SYN-008,Creatinine,1.6,mg/dL,0.6,1.2,above_range,above_range,Value is above the supplied reference range.
